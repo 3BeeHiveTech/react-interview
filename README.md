@@ -44,10 +44,6 @@ export default function Home() {
 
 - Bonus points if you manage to do some tests
 
-- Explain how to move from SINGLE console player to a multiplayer version (remote)
-
 - Use Tailwind
 
 - Use Typescript
-
-- After deploy 
